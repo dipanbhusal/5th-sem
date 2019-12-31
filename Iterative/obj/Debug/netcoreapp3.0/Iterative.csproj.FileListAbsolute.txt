@@ -1,0 +1,16 @@
+/Users/xxxx/dpn/csharp/Iterative/bin/Debug/netcoreapp3.0/Iterative
+/Users/xxxx/dpn/csharp/Iterative/bin/Debug/netcoreapp3.0/Iterative.deps.json
+/Users/xxxx/dpn/csharp/Iterative/bin/Debug/netcoreapp3.0/Iterative.runtimeconfig.json
+/Users/xxxx/dpn/csharp/Iterative/bin/Debug/netcoreapp3.0/Iterative.runtimeconfig.dev.json
+/Users/xxxx/dpn/csharp/Iterative/bin/Debug/netcoreapp3.0/Iterative.dll
+/Users/xxxx/dpn/csharp/Iterative/bin/Debug/netcoreapp3.0/Iterative.pdb
+/Users/xxxx/dpn/csharp/Iterative/obj/Debug/netcoreapp3.0/Iterative.csprojAssemblyReference.cache
+/Users/xxxx/dpn/csharp/Iterative/obj/Debug/netcoreapp3.0/Iterative.AssemblyInfoInputs.cache
+/Users/xxxx/dpn/csharp/Iterative/obj/Debug/netcoreapp3.0/Iterative.AssemblyInfo.cs
+/Users/xxxx/dpn/csharp/Iterative/obj/Debug/netcoreapp3.0/Iterative.dll
+/Users/xxxx/dpn/csharp/Iterative/obj/Debug/netcoreapp3.0/Iterative.pdb
+/Users/xxxx/dpn/DAA/5th-sem/Iterative/obj/Debug/netcoreapp3.0/Iterative.csprojAssemblyReference.cache
+/Users/xxxx/dpn/DAA/5th-sem/Iterative/obj/Debug/netcoreapp3.0/Iterative.AssemblyInfoInputs.cache
+/Users/xxxx/dpn/DAA/5th-sem/Iterative/obj/Debug/netcoreapp3.0/Iterative.AssemblyInfo.cs
+/Users/xxxx/dpn/DAA/5th-sem/Iterative/obj/Debug/netcoreapp3.0/Iterative.dll
+/Users/xxxx/dpn/DAA/5th-sem/Iterative/obj/Debug/netcoreapp3.0/Iterative.pdb
